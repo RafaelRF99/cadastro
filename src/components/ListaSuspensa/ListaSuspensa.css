@@ -1,0 +1,7 @@
+.container-lista label {
+    margin-right: 10px;
+}
+
+.container-lista select {
+    width: 140px;
+}
